@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Salut, je m'appelle Léo, j'ai 21 ans et je suis un jeune développeur web 💻 en plein parcours de formation.<br><br>Actuellement, je prépare un Bac +2 en développement web 🎓, une étape qui me permet d'acquérir des compétences solides dans différents langages de programmation, comme le HTML, CSS, JavaScript, et PHP 🌐, ainsi que des frameworks tels que React et Laravel 🚀.
+👋 Salut, je m'appelle Léo, j'ai 21 ans et je suis un jeune développeur web 💻 en plein parcours de formation.<br><br>Actuellement, je prépare un Bac +2 en développement web 🎓, une étape qui me permet d'acquérir des compétences solides dans différents langages de programmation, comme le HTML, CSS, JavaScript, et PHP 🌐, ainsi que des frameworks tels que Vue et Laravel 🚀.
 
 
 ## 🌐 Socials:
